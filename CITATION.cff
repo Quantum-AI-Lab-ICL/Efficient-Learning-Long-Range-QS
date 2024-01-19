@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Šmíd"
+  given-names: "Štěpán"
+- family-names: "Bondesan"
+  given-names: "Roberto"
+title: "Efficient Learning of Long-Range QS"
+version: 1.0.0
+date-released: 2024-01-10
+url: "https://github.com/Quantum-AI-Lab-ICL/Efficient-Learning-Long-Range-QS"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Šmíd"
+    given-names: "Štěpán"
+  - family-names: "Bondesan"
+    given-names: "Roberto"
+  doi: "10.48550/arXiv.2312.17019"
+  month: 12
+  title: "Efficient Learning of Long-Range and Equivariant Quantum Systems"
+  year: 2023
